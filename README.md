@@ -93,10 +93,6 @@ http://127.0.0.1:8000/docs
 * Separation of logic into clean, testable structure
 * JSON format compatible with real-world applications
 
-## 🎥 Demo Video (Add your link here)
-
-\[Google Drive Link to Demo Video]
-
 ## 💼 Author
 
 Mehrin Fathima — Internship Task Submission
